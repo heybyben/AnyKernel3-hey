@@ -24,6 +24,7 @@ patch_vbmeta_flag=auto
 
 # ──────────────────────────────────────────────
 # Import functions
+AKHOME=/tmp/anykernel
 . tools/ak3-core.sh
 
 # ──────────────────────────────────────────────
